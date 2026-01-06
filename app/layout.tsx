@@ -48,6 +48,9 @@ export const metadata: Metadata = {
     index: true,
     follow: true,
   },
+  verification: {
+    google: '1tJRcz7Qu35CJdZmpr4PRasQAubM1zGRcnW91QxFxZ4',
+  },
 };
 
 import Navbar from "@/components/Navbar";
