@@ -9,8 +9,45 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "QuickPDF - Free Online PDF Tools",
-  description: "Merge, Split, and Convert PDFs securely in your browser.",
+  metadataBase: new URL('https://pdf.tanmayrathod.com'),
+  title: {
+    default: 'WebPDF | Free Online PDF Tools by Tanmay Rathod',
+    template: '%s | WebPDF - Tanmay Rathod'
+  },
+  description: 'Free, secure, and fast PDF tools (Merge, Split, Edit) running entirely in your browser. Built by Full Stack Developer Tanmay Rathod.',
+  keywords: [
+    'Tanmay Rathod',
+    'WebPDF',
+    'PDF Tools',
+    'Merge PDF',
+    'Split PDF',
+    'Tanmay Rathod Developer',
+    'Pune Developer',
+    'Edit PDF',
+    'Free PDF Editor',
+    'Online PDF Converter',
+    'Image to PDF',
+    'JPG to PDF',
+    'PNG to PDF',
+    'Client-side PDF',
+    'Secure PDF Tools',
+    'No Upload PDF',
+    'Next.js Portfolio'
+  ],
+  authors: [{ name: 'Tanmay Rathod', url: 'https://tanmayrathod.com' }],
+  creator: 'Tanmay Rathod',
+  openGraph: {
+    type: 'website',
+    locale: 'en_US',
+    url: 'https://pdf.tanmayrathod.com',
+    title: 'WebPDF by Tanmay Rathod',
+    description: 'Secure client-side PDF tools for students and professionals.',
+    siteName: 'WebPDF',
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 import Navbar from "@/components/Navbar";
