@@ -1,0 +1,30 @@
+[0m[0m
+[0m[4mP:\Projects\PDF converter\quick-pdf\app\blog\[slug]\page.tsx[24m[0m
+[0m  [2m52:29[22m   [31merror[39m  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  [2mreact/no-unescaped-entities[22m[0m
+[0m  [2m52:84[22m   [31merror[39m  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  [2mreact/no-unescaped-entities[22m[0m
+[0m  [2m52:128[22m  [31merror[39m  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  [2mreact/no-unescaped-entities[22m[0m
+[0m[0m
+[0m[4mP:\Projects\PDF converter\quick-pdf\app\blog\page.tsx[24m[0m
+[0m  [2m2:8[22m  [33mwarning[39m  'Navbar' is defined but never used  [2m@typescript-eslint/no-unused-vars[22m[0m
+[0m[0m
+[0m[4mP:\Projects\PDF converter\quick-pdf\app\image-to-pdf\page.tsx[24m[0m
+[0m    [2m6:19[22m  [33mwarning[39m  'ImageIcon' is defined but never used                                                                                                                                                                                                                                                    [2m@typescript-eslint/no-unused-vars[22m[0m
+[0m    [2m6:30[22m  [33mwarning[39m  'X' is defined but never used                                                                                                                                                                                                                                                            [2m@typescript-eslint/no-unused-vars[22m[0m
+[0m    [2m6:46[22m  [33mwarning[39m  'Download' is defined but never used                                                                                                                                                                                                                                                     [2m@typescript-eslint/no-unused-vars[22m[0m
+[0m  [2m152:45[22m  [33mwarning[39m  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  [2m@next/next/no-img-element[22m[0m
+[0m[0m
+[0m[4mP:\Projects\PDF converter\quick-pdf\app\merge\page.tsx[24m[0m
+[0m  [2m7:8[22m  [33mwarning[39m  'Navbar' is defined but never used  [2m@typescript-eslint/no-unused-vars[22m[0m
+[0m[0m
+[0m[4mP:\Projects\PDF converter\quick-pdf\app\split\page.tsx[24m[0m
+[0m    [2m3:40[22m  [33mwarning[39m  'useRef' is defined but never used                                                                                                                                                                                                                                                       [2m@typescript-eslint/no-unused-vars[22m[0m
+[0m    [2m3:48[22m  [33mwarning[39m  'useEffect' is defined but never used                                                                                                                                                                                                                                                    [2m@typescript-eslint/no-unused-vars[22m[0m
+[0m    [2m8:23[22m  [33mwarning[39m  'FileText' is defined but never used                                                                                                                                                                                                                                                     [2m@typescript-eslint/no-unused-vars[22m[0m
+[0m    [2m8:77[22m  [33mwarning[39m  'ArrowRight' is defined but never used                                                                                                                                                                                                                                                   [2m@typescript-eslint/no-unused-vars[22m[0m
+[0m    [2m9:8[22m   [33mwarning[39m  'Navbar' is defined but never used                                                                                                                                                                                                                                                       [2m@typescript-eslint/no-unused-vars[22m[0m
+[0m   [2m28:12[22m  [33mwarning[39m  'selectionMode' is assigned a value but never used                                                                                                                                                                                                                                       [2m@typescript-eslint/no-unused-vars[22m[0m
+[0m   [2m58:22[22m  [31merror[39m    Unexpected any. Specify a different type                                                                                                                                                                                                                                                 [2m@typescript-eslint/no-explicit-any[22m[0m
+[0m  [2m246:45[22m  [33mwarning[39m  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  [2m@next/next/no-img-element[22m[0m
+[0m[0m
+[0m[31m[1m✖ 17 problems (4 errors, 13 warnings)[22m[39m[0m
+[0m[31m[1m[22m[39m[0m
