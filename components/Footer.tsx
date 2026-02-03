@@ -23,11 +23,11 @@ export default function Footer() {
                         {/* GitHub & Socials */}
                         <div className="flex gap-4">
                             <a
-                                href="https://github.com/TanmayRathod07/quickpdf"
+                                href="https://github.com/TanmayRathod07"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="bg-gray-800 p-2 rounded-full hover:bg-gray-700 hover:text-white transition"
-                                aria-label="GitHub Repository"
+                                aria-label="GitHub Profile"
                             >
                                 <Github size={20} />
                             </a>
